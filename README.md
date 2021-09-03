@@ -8,7 +8,7 @@ In this project, I have designed and implemented the gallery UI which is minimal
 
 ### Links
 
-- Live Site URL: [LINK](https://github.com/aaveggupta/Fashion-Gallery)
+- Live Site URL: [LINK](https://aaveggupta.github.io/Fashion-Gallery/)
 
 ## My process
 
