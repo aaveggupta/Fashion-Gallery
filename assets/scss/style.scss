@@ -84,6 +84,8 @@ img:hover {
 
   margin-bottom: 3rem;
   border-radius: 22px;
+  break-inside: avoid-column;
+  page-break-inside: avoid;
 }
 
 .nav {

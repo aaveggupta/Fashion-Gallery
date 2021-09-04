@@ -95,6 +95,9 @@ img:hover {
           box-shadow: inset 8px 8px 16px 0 #b4c1d5, inset -8px -8px 16px 0 white;
   margin-bottom: 3rem;
   border-radius: 22px;
+  -webkit-column-break-inside: avoid;
+          break-inside: avoid-column;
+  page-break-inside: avoid;
 }
 
 .nav {
